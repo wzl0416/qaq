@@ -1,0 +1,23 @@
+ Project exclude paths
+/1203-qy105-common/target/
+/1203-qy105-config/target/
+/1203-qy105-eurekaB/target/
+/1203-qy105-eurekaA/target/
+/1203-qy105-fegin/target/
+/1203-qy105-provider/target/
+/1203-qy105-ribbon/target/
+/1203-qy105-turbine/target/
+/1203-qy105-zuul/target/
+/1203-qy105-configB/target/
+
+
+# Idea
+.idea
+*.iws
+*.iml
+*/*.iml
+*.ipr
+
+.settings
+.classpath
+.project
